@@ -1,1 +1,1 @@
-# .github
+# EAT with AI
