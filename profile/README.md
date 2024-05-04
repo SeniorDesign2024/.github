@@ -19,8 +19,6 @@ This repository contains our web application code which include different web pa
 5. Testing the application (streaming_simulator)   
 This repository contains code to test our project.
 
-For the best setup experience, follow steps 1-5 in that order. Setup instructions for each component can be found in that repository.
-
-After installation sign into our project with the following credentials:  
+For the best setup experience, follow steps 1-5 in that order. Setup instructions for each component can be found in that repository. After installation sign into our project in both the web and mobile apps with the following credentials:  
 Username : `demo`  
 Password : `thisistest3`
