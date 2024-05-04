@@ -21,6 +21,6 @@ This repository contains code to test our project.
 
 For the best setup experience, follow steps 1-5 in that order. Setup instructions for each component can be found in that repository.
 
-After installation sign into our project with the following credentials:
-`demo`
-`thisistest3`
+After installation sign into our project with the following credentials:  
+Username : `demo`
+Password : `thisistest3`
